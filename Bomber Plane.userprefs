@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\airplane.cs">
+    <Files>
+      <File FileName="Assets\Script\Bomb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LoadOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ObjectMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SpawnPlatforms.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SplashScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\dropbomb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\airplane.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
